@@ -1,10 +1,6 @@
 ### Hello And Welcome !
 
-I'm Arshia/MrMegaExpert. I'm Working In Programming Field For 7 Years And Im Tring To Be Best Of Mine :)
-
-<a href="https://www.linkedin.com/in/arshia-tamimi-85ab06203">
-  <img align="left" alt="MrMegaExpert's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+I'm Arshia. I'm Working In Programming Field For 7 Years And Im Tring To Be Best Of Mine :)
 
 <br>
 <br>
