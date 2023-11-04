@@ -32,8 +32,8 @@ I'm Arshia. I'm Working In Programming Field For 8 Years And Im Tring To Be Best
 
 📈 my github stats
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshiatmi&show_icons=true&theme=monokai)](https://github.com/Arshiatmi/Arshiatmi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiatmi&layout=compact&langs_count=5&theme=monokai&cache_seconds=10800)](https://github.com/Arshiatmi/Arshiatmi)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arshiatmi)](https://github.com/anuraghazra/github-readme-stats)
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshiatmi&show_icons=true&theme=monokai)](https://github.com/Arshiatmi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiatmi&layout=compact&langs_count=5&theme=monokai&cache_seconds=10800)](https://github.com/Arshiatmi)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arshiatmi)](https://github-readme-stats.vercel.app/api/wakatime?username=Arshiatmi)
 
 
