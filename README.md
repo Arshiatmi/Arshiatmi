@@ -35,8 +35,6 @@ I'm Arshia. I'm Working In Programming Field For 8 Years And Im Tring To Be Best
 
 <div align="center">
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshiatmi&show_icons=true&theme=monokai)](https://github.com/Arshiatmi)
-
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arshiatmi\&layout=compact\&theme=monokai)](https://github-readme-stats.vercel.app/api/wakatime?username=Arshiatmi)
 
 </div>
