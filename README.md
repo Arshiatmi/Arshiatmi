@@ -18,6 +18,24 @@ I'm Arshia. I'm Working In Programming Field For 8 Years And Im Tring To Be Best
 <br>
 <br>
 
+
+BackEnd Development : <br>
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white), ![Django Rest Framework](https://img.shields.io/badge/django--rest--framework-blue?style=for-the-badge&logo=django&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- ![Json Web Token](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens)
+<br><br>
+
+Game Development :<br>
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-323330?style=for-the-badge&logo=unrealengine)
+<br><br>
+
+For Fun :<br>
+- ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<br><br>
+
+
 🔥 Cool Projects That I'm Working On It.
 
 - ⚡[Box Programming](https://github.com/Arshiatmi/Box-Programming) ( A Programming Language That All Of Commands Are GUI Boxes )
