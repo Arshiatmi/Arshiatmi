@@ -14,6 +14,7 @@
 ### Hello And Welcome
 
 I'm Arshia. I'm Working In Programming Field For 10 Years And Im Tring To Be Best Of Mine :)
+All Of Hours And Insights Below Are After March 2020 And Does Not Include Before That :/
 
 <br>
 <br>
@@ -49,7 +50,7 @@ For Fun ( **+600 Hours** ) :<br>
 - 🎆[Renamer](https://github.com/Arshiatmi/Renamer) ( A Cool Helper For You To Manage Your Data )
 - 🎉[Automation-Countdown](https://github.com/Arshiatmi/Automation-Countdown) ( A Cool Helper For You To Make A Countdown With A Functionallity After Countdown )
 
-📈 my github stats
+📈 my github stats ( after march 2020 )
 
 
 <div align="center">
