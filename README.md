@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Leckerli+One&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=10+Years+Of+Experience+In+Coding+!;More+Than+1900+Hours+Of+Coding+!;You+Can+Call+Me+Geek+i+Think+%3A%2F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Leckerli+One&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=11+Years+Of+Experience+In+Coding+!;More+Than+1900+Hours+Of+Coding+!;You+Can+Call+Me+Geek+i+Think+%3A%2F)](https://git.io/typing-svg)
   
   [![Not A Bug, Its A Feature!](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
   [![Check It Out !](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
