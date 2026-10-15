@@ -39,11 +39,6 @@ For Fun ( **+600 Hours** ) :<br>
 - ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-blue?style=for-the-badge&logo=telegram&logoColor=white)
 <br><br>
 
-
-🔥 Cool Projects That I'm Working On It.
-
-- ⚡[Box Programming](https://github.com/Arshiatmi/Box-Programming) ( A Programming Language That All Of Commands Are GUI Boxes )
-
 <br>
 🔥 Cool Projects That I'm Done.
 
